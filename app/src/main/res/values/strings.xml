@@ -6,6 +6,7 @@
     <string name="imageview_desc">Bitcoin Logo</string>
 
     <string-array name="currency_array">
+        <item>INR</item>
         <item>AUD</item>
         <item>BRL</item>
         <item>CAD</item>
@@ -19,7 +20,6 @@
         <item>SEK</item>
         <item>USD</item>
         <item>ZAR</item>
-        <item>INR</item>
     </string-array>
 
 
